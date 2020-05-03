@@ -1,2 +1,2 @@
-# OuryBinta
+# Oury Binta
 Mes publications
